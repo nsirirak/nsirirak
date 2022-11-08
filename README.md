@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicholas Sirirak
-- 👀 I’m interested in ... AWS
-- 🌱 I’m currently learning ... Jr Cloud Practitioner
-- 💞️ I’m looking to collaborate on ... Python
+- 👀 I’m interested in ... Python, Raspbrry Pi Pico
+- 🌱 I’m currently learning ... Python, Embedded System
+- 💞️ I’m looking to collaborate on ... Python, Embedded System
 - 📫 How to reach me ...
 
 <!---
